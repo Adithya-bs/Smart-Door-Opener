@@ -24,7 +24,7 @@ The Smart Door Opener project is designed to automate door operation using an ES
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/your-username/smart-door-opener.git
+    git clone https://github.com/adithya-bs/smart-door-opener.git
     ```
 
 2. **Set up the hardware**:
